@@ -1,0 +1,28 @@
+# dependencies
+backend/node_modules
+frontend/node_modules
+backend/.idea/
+frontend/.idea/
+backend/dist/
+frontend/dist/
+
+# testing
+backend/coverage
+frontend/coverage
+
+# production
+backend/build
+frontend/build
+
+# misc
+backend/.DS_Store
+backend/*.pem
+
+# debug
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+
+/.idea
+
+
